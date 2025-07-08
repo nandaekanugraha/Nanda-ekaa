@@ -25,8 +25,19 @@
 
 #### Connect me
 
+<p>Hubungi aku di:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram)](https://skillicons.dev)
+<!-- WhatsApp -->
+<a href="https://wa.me/+6285258077564" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" style="filter: invert(34%) sepia(88%) saturate(544%) hue-rotate(89deg) brightness(96%) contrast(92%);">
+</a>
+
+<!-- Gmail -->
+<a href="tugaskunying@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+</a>
+
+
 -------
 
 ### My Github stats
