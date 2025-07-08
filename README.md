@@ -37,6 +37,11 @@
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
 </a>
 
+<!-- Instagram -->
+<a href="https://www.instagram.com/nandaaa_ekaaaaa?igsh=MWdjcGV4dTlyNjNzMQ==" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+</a>
+
 
 -------
 
