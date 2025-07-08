@@ -25,8 +25,9 @@
 
 #### Connect me
 
-![https://www.instagram.com/nandaaa_ekaaaaa?igsh=MWdjcGV4dTlyNjNzMQ==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://www.tiktok.com/@ndaaa6056?_t=ZS-8xmJqU0h6Is&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)       ![https://wa.me/qr/PF3OCV44WPWYD1](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail,instagram)](https://skillicons.dev)
+-------
 
 ### My Github stats
 ![status by Nanda eka nugraha](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
